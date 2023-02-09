@@ -11414,12 +11414,14 @@ p {
 }
 /* ปก cover BG */
 header.masthead {
-  
+  width: 100vw;
+  height: 100vh;
   padding-top: 25rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/YaTH.svg");
+
   
   background-repeat: no-repeat;
   background-attachment: scroll;
